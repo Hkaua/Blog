@@ -1,6 +1,8 @@
 
 > ## Blog
-![image](https://github.com/Hkaua/Blog/assets/115200562/03d0c673-d0fb-4b66-b9c6-7bc19ed69cb6)
+![image](https://github.com/Hkaua/Blog/assets/115200562/914fc8d5-8f5f-4cde-bab4-35f0925b8372)
+
+
 
 
 ## Objetivo:
@@ -24,4 +26,11 @@ Este é um projeto simples de um blog de viagens com tags, categorias falados e 
 
 ## Mais imagens.
 
-![image](https://github.com/Hkaua/The-Offspring/assets/115200562/7c4d781b-4bbd-4edc-836d-b36a1372cae3)
+![image](https://github.com/Hkaua/Blog/assets/115200562/46fa30c2-2e5b-4f4e-9bb0-5a3187f36e48)
+
+## Footer.
+
+![image](https://github.com/Hkaua/Blog/assets/115200562/57c2eb8f-8629-4098-a82d-fd4e8350db03)
+
+
+

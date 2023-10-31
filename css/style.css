@@ -1,0 +1,173 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1b1f22;
+    color: #ffffff;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #444;
+    transition: 0.4s;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #37a1f7;
+}
+
+
+
+
+
+
+#navbar {
+    padding: 1.5rem 2.5rem;
+    border-bottom: 2px solid #ddd;
+}
+
+#navbar-inner {
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+#nav-links {
+    display: flex;
+    gap: 1rem;
+}
+
+
+
+
+
+
+.container {
+    display: flex;
+    gap: 3rem;
+    padding: 2rem 2.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#posts-container {
+    flex: 3 1 0;
+
+}
+
+.post {
+    margin-bottom: 2.5rem;
+}
+
+.post img {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.title,
+.description,
+.author {
+    margin-bottom: 1rem;
+}
+
+.title {
+    font-size: 2rem;
+}
+
+.author {
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+
+
+
+
+#sidebar {
+    flex: 1 1 0;
+
+}
+
+#search-bar,
+#categories,
+#tags {
+    padding: 1.5rem;
+    border: 1px solid #f1f1f1;
+    margin-bottom: 1rem;
+}
+
+#search-bar h4,
+#categories h4,
+#tags h4 {
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
+}
+
+#search-bar form {
+    display: flex;
+}
+
+#search-bar input {
+    padding: 0.5rem 10px;
+    border: 1px solid #ffffff;
+}
+
+#search-bar input[type="submit"] {
+    cursor: pointer;
+    background-color: #37a1f7;
+    color: #f1d5d5;
+    border: none;
+    border: 1px solid #eeecec;
+}
+
+#categories li {
+    margin-bottom: 1rem;
+}
+
+#tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+#tags-container a {
+    background-color: #2659e6;
+    padding: 0.5rem 0.7rem;
+    border-radius: 0.3rem;
+}
+
+
+
+
+
+
+#footer {
+    border-top: 2px solid #ddd;
+    padding: 3rem;
+    text-align: center;
+}
+
+#footer h2,
+#footer p {
+    margin-bottom: 1rem;
+}
+
+
+
+
+
+
+@media(max-width: 450px) {
+    .container {
+        flex-wrap: wrap;
+    }
+}
